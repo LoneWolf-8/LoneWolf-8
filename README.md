@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Karthikeya
+- 🏫 I'm Studying in Dr. M.G.R Educational and Research Institute
+- 📖 Student of Computer Science Engineering in Data Science & Artificial Intelligence
+- 👀 I’m interested in Full Stack Development and Data Science
+- 🌱 I’m currently learning Python, C and C++.
+- 👌 I'm know Basic web application development using HTML,CSS and JS
+- 💞️ I’m looking to collaborate on New projects and ideas to improve my Skills
+- 📫 How to reach me karthikeya46441@gmail.com
+- 😄 Pronouns: He/Him
